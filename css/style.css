@@ -1,0 +1,30 @@
+
+.aqdas{
+display: flex;
+height: 450px;
+}
+.mq{
+    padding-left: 150px;
+    height: 190px;
+}
+
+.op{
+    display: flex;
+}
+.space{
+    padding: 15px;
+}
+.back{
+    padding: 15px;
+}
+
+.h {
+    display: flex;
+    height: 230px;
+    width: 150px;
+}
+.andro{
+    background-color: aqua;
+    height: 230px;
+    
+}
