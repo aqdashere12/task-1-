@@ -1,30 +1,283 @@
 
-.aqdas{
-display: flex;
-height: 450px;
+/* section 1 starts
+*/
+.text1{
+ 
+margin-top: -30px;
+   text-align: center;
+  
+   font-family: sans-serif;
 }
-.mq{
-    padding-left: 150px;
-    height: 190px;
-}
+   .sec1text4{
+    letter-spacing: 7px;
+    font-size: 15px;
 
-.op{
+   }
+  .sec1text5{
     display: flex;
-}
-.space{
-    padding: 15px;
-}
-.back{
-    padding: 15px;
-}
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-top: 10px ;
+  }
 
-.h {
-    display: flex;
-    height: 230px;
-    width: 150px;
+   .sec1text2{
+    letter-spacing: 1px;
+    font-size: 25px;
+margin-top: -42px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+      color: rgb(116, 114, 112);
+   }
+   
 }
-.andro{
-    background-color: aqua;
-    height: 230px;
+.image1{
+    height: 150px;
+    padding-top: 140px;
+  padding-left: 110px;
+    width: 370px;
     
 }
+.image2{
+ 
+    height: 550px;
+    width: 630px;
+    padding-top: 85px;
+    margin-right: 10px;
+    padding-right: 33px;
+  
+}
+
+.sec1text3{
+letter-spacing: 7px;
+font-size: 15px;
+
+
+}
+
+
+
+.image3{
+height: 90px;
+padding-left: 50px;
+width: 220px;
+}
+.image4{
+height: 90px;
+padding-left: 20px;
+
+width: 220px;
+}
+
+.image3and4{
+    display: flex;
+  
+    padding-top: 60px;
+    padding-right: 30px;
+  
+  
+}
+
+.maindiv{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 60px;
+}
+/*
+section 1 ends
+*/
+
+
+/*
+section..2..starts
+*/
+.im1-s2{
+    height: 650px;
+    padding-top: 100px;
+    padding-left: px;
+
+}
+.sec2maindiv{
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec2text1{
+    align-content: center;
+    font-size: 25px;
+    text-align: center;
+  
+    padding-right: 110px;
+    letter-spacing: px;
+}
+
+.sec2text3{
+    font-family: sans-serif;
+    font-size: 30px;
+  font-weight:  3;
+padding-right: 10px;
+  color: rgb(116, 114, 112);
+ font-size: 36px;
+  line-height: 50px;
+
+}
+
+.sec2text2{
+letter-spacing: 8px;
+font-size: 35px;
+font-weight: 300;
+font-family: sans-serif;
+}
+
+
+
+
+/*
+section...2...ends
+*/
+
+
+/*
+section...3...starts
+*/
+.sec3maindiv{
+
+    display: flex;
+    justify-content: space-around;
+
+}
+.sec3image1{
+    height: 580px;
+    width: 530px;
+    padding-right: 120px;
+
+
+}
+.sec3text1{
+    font-size: 35px;
+   
+    padding-top: 200px;
+    letter-spacing: 5px;
+    padding-left: 130px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.sec3text2{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(116, 114, 112);
+    margin-top: -20px;
+
+}
+/*section 3 ends here
+*/
+
+
+/*section 4 starts 
+*/
+
+.sec4maindiv{
+    display: flex;
+
+}
+
+
+.favo{
+    font-family: sans-serif;
+}
+
+.sec4image1{
+    height: 550px;
+    width: 450px;
+padding-left: 70px;
+
+}
+/*    section       4     */
+.section-4{
+    display: flex;
+    justify-content: space-between;
+}
+.section4-img{
+       height: 560px;
+       padding: 0px 0px 0px 78px;
+}
+.section-logo{
+       width:480px ;
+       height: 100px;
+       padding: 80px 265px 0px 0px;
+}
+.section-text1{
+     padding: 20px 0px 0px 214px;
+     font-size: 35px;
+     font-weight: bold;
+     letter-spacing:3px ;
+    
+}
+.section-text2{
+    color: rgb(116, 114, 112);
+     padding: 0px 0px 0px 130px;
+     font-size: xx-large;
+     letter-spacing:3px ;
+}
+.section-text3{
+    padding: 0px 0px 0px 90px;
+    font-size: xx-large;
+    color: rgb(116, 114, 112);
+     letter-spacing:3px ;
+     margin-top: -20px;
+}
+.section-text4{
+    color: rgb(116, 114, 112);
+    padding: 0px 0px 0px 160px ;
+    font-size: xx-large;
+    letter-spacing:3px ;
+    margin-top: -20px;
+    
+    }
+
+/*     section 4 end */
+.aqdas{
+    background-color: rgb(246, 247, 243);
+}
+
+/*section 5 starts
+*/
+
+
+.trx{
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.lastpart{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.play2{
+    height: 90px;
+    align-items: center;
+    padding-left: 420px;
+    
+}
+.app2{
+    height: 90px;
+    padding-right: 450px;
+}  
+
+.qu{
+    text-align: center;
+  justify-content: space-between;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+.contact{
+    text-decoration: none;
+}
+
+.per{
+    padding-left: 580px;
+    padding-bottom: 12opx;
+}
+/*the end
